@@ -18,29 +18,6 @@ This audit repo and its Discord channel are accessible to **certified wardens on
 
 Please review the above confidentiality requirements carefully, and if anything is unclear, ask questions in the private audit channel in the C4 Discord.
 
-# Scope
-
-*See [scope.txt](https://github.com/code-423n4/2024-09-coded-estate/blob/main/scope.txt)*
-
-### Files in scope
-
-
-| File   | Logic Contracts | Interfaces | nSLOC | Purpose | Libraries used |
-| ------ | --------------- | ---------- | ----- | -----   | ------------ |
-
-| **Totals** | **** | **** | **undefined** | | |
-
-### Files out of scope
-
-*See [out_of_scope.txt](https://github.com/code-423n4/2024-09-coded-estate/blob/main/out_of_scope.txt)*
-
-| File         |
-| ------------ |
-| ./contracts/codedestate/src/contract_tests.rs |
-| ./contracts/codedestate/src/multi_tests.rs |
-| ./packages/cw721/examples/schema.rs |
-| Totals: 3 |
-
 
 # Overview
 
@@ -59,6 +36,9 @@ Please review the above confidentiality requirements carefully, and if anything 
 # Scope
 
 ### Files in scope
+
+*See [scope.txt](https://github.com/code-423n4/2024-09-coded-estate/blob/main/scope.txt)*
+
 
 | File                                       | blank | comment | code |
 |--------------------------------------------|-------:|--------:|-----:|
@@ -79,7 +59,16 @@ Please review the above confidentiality requirements carefully, and if anything 
 
 ### Files out of scope
 
-Everything not in the files in scope table.
+*See [out_of_scope.txt](https://github.com/code-423n4/2024-09-coded-estate/blob/main/out_of_scope.txt)*
+
+
+| File         |
+| ------------ |
+| ./contracts/codedestate/src/contract_tests.rs |
+| ./contracts/codedestate/src/multi_tests.rs |
+| ./packages/cw721/examples/schema.rs |
+| Totals: 3 |
+
 
 ## Scoping Q &amp; A
 
