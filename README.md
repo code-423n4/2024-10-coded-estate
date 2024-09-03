@@ -58,14 +58,7 @@ Please review the above confidentiality requirements carefully, and if anything 
 
 # Scope
 
-[ ✅ SCOUTS: add scoping and technical details here ]
-
 ### Files in scope
-- ✅ This should be completed using the `metrics.md` file
-- ✅ Last row of the table should be Total: SLOC
-- ✅ SCOUTS: Have the sponsor review and and confirm in text the details in the section titled "Scoping Q amp; A"
-
-*For sponsors that don't use the scoping tool: list all files in scope in the table below (along with hyperlinks) -- and feel free to add notes to emphasize areas of focus.*
 
 | File                                       | blank | comment | code |
 |--------------------------------------------|-------:|--------:|-----:|
@@ -85,7 +78,8 @@ Please review the above confidentiality requirements carefully, and if anything 
 | packages/cw721/lib.rs                      | 2     | 0       | 14   |
 
 ### Files out of scope
-✅ SCOUTS: List files/directories out of scope
+
+Everything not in the files in scope table.
 
 ## Scoping Q &amp; A
 
