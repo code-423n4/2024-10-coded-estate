@@ -2,7 +2,7 @@
 - Total Prize Pool: $24,000 in USDT
   - HM awards: $19,700 in USDT
   - QA awards: $800 in USDT
-  - Judge awards: $3500 in USDT
+  - Judge awards: $3,500 in USDT
 - [Read our guidelines for more details](https://docs.code4rena.com/roles/wardens)
 - Starts September 3, 2024 20:00 UTC
 - Ends September 17, 2024 20:00 UTC
