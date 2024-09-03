@@ -21,7 +21,11 @@ Please review the above confidentiality requirements carefully, and if anything 
 
 # Overview
 
-[ ⭐️ SPONSORS: add info here ]
+At its essence, Coded Estate is a pioneering decentralized platform that serves as an all in one hub for potential buyers and sellers and a bridge for travelers seeking unique experiences. Through an intuitive interface, homeowners can mint their properties into dynamic NFTs, enabling effortless rental revunue, APY and transfer on the blockchain.                          
+
+Coded Estate introduces the transformative benefit of fractionalized ownership, allowing users to invest in portions of real estate assets, democratizing property investments and ensuring broader participation. Additionally, the platform harnesses the power of AI, providing tailored recommendations, enhanced atutomation without intermediaries and investment insights to users, ensuring they make informed decisions.
+
+Consumers can explore and purchase homes or indulge in vacation retreats, transacting smoothly in digital currency, empowered by smart contracts and Coded Estate's combination of cutting edge- technologies.
 
 ## Links
 
