@@ -121,7 +121,6 @@ _Note for C4 wardens: Anything included in this `Automated Findings / Publicly K
 | Question                                | Answer                       |
 | --------------------------------------- | ---------------------------- |
 | ERC20 used by the protocol              | Any (all possible ERC20s)     |
-| Test coverage                           | ✅ SCOUTS: Please populate this after running the test coverage command |
 | ERC721 used  by the protocol            | Real estate nft              |
 | ERC777 used by the protocol             | No                           |
 | ERC1155 used by the protocol            | No                           |
@@ -159,16 +158,6 @@ _Note for C4 wardens: Anything included in this `Automated Findings / Publicly K
 | Upgradeability (e.g. Uniswap gets upgraded)               | No     |
 
 
-### EIP compliance checklist
-
-✅ SCOUTS: Please format the response above 👆 using the template below👇
-
-| Question                                | Answer                       |
-| --------------------------------------- | ---------------------------- |
-| src/Token.sol                           | ERC20, ERC721                |
-| src/NFT.sol                             | ERC721                       |
-
-
 # Additional context
 
 ## Main invariants
@@ -189,33 +178,6 @@ None
 
 None
 
-
-## Running tests
-
-This is cosmwasm smart contract which is built with rust environment
-
-✅ SCOUTS: Please format the response above 👆 using the template below👇
-
-```bash
-git clone https://github.com/code-423n4/2023-08-arbitrum
-git submodule update --init --recursive
-cd governance
-foundryup
-make install
-make build
-make sc-election-test
-```
-To run code coverage
-```bash
-make coverage
-```
-To run gas benchmarks
-```bash
-make gas
-```
-
-✅ SCOUTS: Add a screenshot of your terminal showing the gas report
-✅ SCOUTS: Add a screenshot of your terminal showing the test coverage
 
 ## Miscellaneous
 Employees of Coded Estate and employees' family members are ineligible to participate in this audit.
