@@ -18,12 +18,6 @@ This audit repo and its Discord channel are accessible to **certified wardens on
 
 Please review the above confidentiality requirements carefully, and if anything is unclear, ask questions in the private audit channel in the C4 Discord.
 
-## Automated Findings / Publicly Known Issues
-
-The 4naly3er report can be found [here](https://github.com/code-423n4/2024-09-coded-estate/blob/main/4naly3er-report.md).
-
-_Note for C4 wardens: Anything included in this `Automated Findings / Publicly Known Issues` section is considered a publicly known issue and is ineligible for awards._
-
 # Scope
 
 *See [scope.txt](https://github.com/code-423n4/2024-09-coded-estate/blob/main/scope.txt)*
