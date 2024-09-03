@@ -67,9 +67,22 @@ Please review the above confidentiality requirements carefully, and if anything 
 
 *For sponsors that don't use the scoping tool: list all files in scope in the table below (along with hyperlinks) -- and feel free to add notes to emphasize areas of focus.*
 
-| Contract | SLOC | Purpose | Libraries used |  
-| ----------- | ----------- | ----------- | ----------- |
-| [contracts/folder/sample.sol](https://github.com/code-423n4/repo-name/blob/contracts/folder/sample.sol) | 123 | This contract does XYZ | [`@openzeppelin/*`](https://openzeppelin.com/contracts/) |
+| File                                       | blank | comment | code |
+|--------------------------------------------|-------:|--------:|-----:|
+| contracts/codedestate/src/execute.rs       | 172   | 154     | 1198 |
+| contracts/codedestate/src/contract_tests.rs| 108   | 61      | 746  |
+| contracts/codedestate/src/query.rs         | 41    | 15      | 376  |
+| contracts/codedestate/src/msg.rs           | 31    | 99      | 182  |
+| packages/cw721/query.rs                    | 24    | 48      | 167  |
+| contracts/codedestate/src/state.rs         | 28    | 26      | 162  |
+| contracts/codedestate/src/helpers.rs       | 19    | 8       | 163  |
+| packages/cw721/traits.rs                   | 23    | 3       | 148  |
+| contracts/codedestate/src/lib.rs           | 23    | 15      | 95   |
+| contracts/codedestate/src/multi_tests.rs   | 18    | 49      | 69   |
+| contracts/codedestate/src/error.rs         | 22    | 0       | 50   |
+| packages/cw721/receiver.rs                 | 5     | 5       | 31   |
+| packages/cw721/msg.rs                      | 1     | 10      | 24   |
+| packages/cw721/lib.rs                      | 2     | 0       | 14   |
 
 ### Files out of scope
 ✅ SCOUTS: List files/directories out of scope
