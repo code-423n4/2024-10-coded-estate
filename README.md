@@ -46,7 +46,6 @@ Consumers can explore and purchase homes or indulge in vacation retreats, transa
 
 | File                                       | blank | comment | code |
 |--------------------------------------------|-------:|--------:|-----:|
-| contracts/codedestate/src/execute.rs       | 172   | 154     | 1198 |
 | contracts/codedestate/src/contract_tests.rs| 108   | 61      | 746  |
 | contracts/codedestate/src/query.rs         | 41    | 15      | 376  |
 | contracts/codedestate/src/msg.rs           | 31    | 99      | 182  |
@@ -71,6 +70,7 @@ Consumers can explore and purchase homes or indulge in vacation retreats, transa
 | ./contracts/codedestate/src/contract_tests.rs |
 | ./contracts/codedestate/src/multi_tests.rs |
 | ./packages/cw721/examples/schema.rs |
+| ./contracts/codedestate/src/execute.rs |
 | Totals: 3 |
 
 
