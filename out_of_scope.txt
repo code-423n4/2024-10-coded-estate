@@ -1,0 +1,3 @@
+./contracts/codedestate/src/contract_tests.rs
+./contracts/codedestate/src/multi_tests.rs
+./packages/cw721/examples/schema.rs
