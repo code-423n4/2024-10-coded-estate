@@ -135,6 +135,9 @@ None
 
 None
 
+## Building
+Install Rust version 1.72.1 and then run `cargo build`
+
 
 ## Describe any novel or unique curve logic or mathematical models implemented in the contracts:
 
