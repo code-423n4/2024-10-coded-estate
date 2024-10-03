@@ -5,8 +5,8 @@
   - Judge awards: $5,000 in USDT
   - Scout awards: $500 in USDT
 - [Read our guidelines for more details](https://docs.code4rena.com/roles/wardens)
-- Starts October 7, 2024 20:00 UTC
-- Ends October 21, 2024 20:00 UTC
+- Starts October 4, 2024 20:00 UTC
+- Ends October 11, 2024 20:00 UTC
 
 ## This is a Private audit
 
