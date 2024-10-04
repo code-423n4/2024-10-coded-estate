@@ -1,8 +1,8 @@
 # Coded Estate audit details
-- Total Prize Pool: $27,400 in USDT
-  - HM awards: $21,000 in USDT
-  - QA awards: $900 in USDT
-  - Judge awards: $5,000 in USDT
+- Total Prize Pool: $29,400 in USDT
+  - HM awards: $23,500 in USDT
+  - QA awards: $1,000 in USDT
+  - Judge awards: $4,400 in USDT
   - Scout awards: $500 in USDT
 - [Read our guidelines for more details](https://docs.code4rena.com/roles/wardens)
 - Starts October 4, 2024 20:00 UTC
