@@ -48,15 +48,14 @@ Consumers can explore and purchase homes or indulge in vacation retreats, transa
 | File                                       | blank | comment | code |
 |--------------------------------------------|-------:|--------:|-----:|
 | contracts/codedestate/src/execute.rs       | 172   | 154     | 1198 |
-| contracts/codedestate/src/contract_tests.rs| 108   | 61      | 746  |
 | contracts/codedestate/src/query.rs         | 41    | 15      | 376  |
+| ./packages/cw721/examples/schema.rs |   |   |
 | contracts/codedestate/src/msg.rs           | 31    | 99      | 182  |
 | packages/cw721/query.rs                    | 24    | 48      | 167  |
 | contracts/codedestate/src/state.rs         | 28    | 26      | 162  |
 | contracts/codedestate/src/helpers.rs       | 19    | 8       | 163  |
 | packages/cw721/traits.rs                   | 23    | 3       | 148  |
 | contracts/codedestate/src/lib.rs           | 23    | 15      | 95   |
-| contracts/codedestate/src/multi_tests.rs   | 18    | 49      | 69   |
 | contracts/codedestate/src/error.rs         | 22    | 0       | 50   |
 | packages/cw721/receiver.rs                 | 5     | 5       | 31   |
 | packages/cw721/msg.rs                      | 1     | 10      | 24   |
@@ -71,9 +70,7 @@ Consumers can explore and purchase homes or indulge in vacation retreats, transa
 | ------------ |
 | ./contracts/codedestate/src/contract_tests.rs |
 | ./contracts/codedestate/src/multi_tests.rs |
-| ./packages/cw721/examples/schema.rs |
-| ./contracts/codedestate/src/execute.rs |
-| Totals: 3 |
+| Totals: 2 |
 
 
 ## Scoping Q &amp; A
