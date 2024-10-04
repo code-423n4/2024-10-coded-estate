@@ -10,3 +10,4 @@
 ./packages/cw721/src/query.rs
 ./packages/cw721/src/msg.rs
 ./packages/cw721/src/lib.rs
+./packages/cw721/examples/schema.rs
